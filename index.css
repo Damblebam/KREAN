@@ -27,16 +27,22 @@ a:-webkit-any-link {
     display: flex;
     align-items: center;
     gap: 10px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .head_title {
     display: flex;
     align-items: center;
     flex-direction: column;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 24px;
 }
 
 .head_title__main {
-    font-size: 24px;
+    font-size: 38px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
 }
 
 .scroll_icon__container {
