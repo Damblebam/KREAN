@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+}
+
+.head {
+    background: url(./assets/header-bg.jpg);
+    height: 100vh;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 95px 217px;
+    box-sizing: border-box;
+}
+
+a:-webkit-any-link {
+    color: white;
+    text-decoration: none;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.head_title {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.head_title__main {
+    font-size: 24px;
+}
+
+.scroll_icon__container {
+    align-self: center;
+}
