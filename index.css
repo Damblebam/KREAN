@@ -49,7 +49,6 @@ a:-webkit-any-link {
     align-self: center;
 }
 .services {
-    color: ;
     height: 100%;
     display: flex;
     flex-direction: row;
@@ -77,10 +76,6 @@ a:-webkit-any-link {
 .services_info {
     display: flex;
     align-items: center;
-}
-.services_text_style {
-    font-family: 'Courier New', Courier, monospace;
-    color: gray;
 }
 .consultancy {
     display: flex;
