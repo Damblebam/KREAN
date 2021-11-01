@@ -48,3 +48,97 @@ a:-webkit-any-link {
 .scroll_icon__container {
     align-self: center;
 }
+.services {
+    color: ;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 10px;
+}
+.head_titles__services {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 85px 750px 80px;
+}
+.head_title2__krea {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 45px;
+    font-weight: bold;
+}
+.head_title2__services {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.head_element__line {
+    color:blueviolet;
+}
+.services_info {
+    display: flex;
+    align-items: center;
+}
+.services_text_style {
+    font-family: 'Courier New', Courier, monospace;
+    color: gray;
+}
+.consultancy {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.consultancy_head_style {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    color: gray;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.mentorship {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.mentorship_head_style {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    color: gray;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.incubatory {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.incubatory_head_style {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    color: gray;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.get_in_touch__button {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 85px 750px;
+    position: relative;
+}
+.button_position {
+    width: 295px;
+    height: 65px;
+}
+.button_text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 19px;
+    font-weight: bold;
+    color: white;
+}
