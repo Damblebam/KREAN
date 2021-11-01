@@ -1,1 +1,1 @@
-# Welcome to my first web-project - "KREAN"
+# Welcome to my first web-project - KREAN
