@@ -76,9 +76,10 @@ a:-webkit-any-link {
 
 .head_titles__services {
     display: flex;
-    align-items: center;
     flex-direction: column;
-    margin: 85px 750px 80px;
+    align-items: center;
+    justify-content: center;
+    margin: 160px 85px;
 }
 
 .head_title2__krea {
